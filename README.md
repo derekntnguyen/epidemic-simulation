@@ -4,4 +4,4 @@ This python script simulates both a deterministic model and a stochastic model o
 
 The deterministic model of the epidemic simulation utilizes solve_ivp with equations given in dndt and jacobian given in function jacobian to simulate the epidemic.
 
-The stochastic model of the edpidemic simulation utilizes the gillespie algorith to simulate the epidemic.
+The stochastic model of the edpidemic simulation utilizes the gillespie algorithm to simulate the epidemic.
